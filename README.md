@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Justo Díaz Meiners, un apasionado desarrollador Full Stack con conocimientos en React, Java Spring y en la gestión de infraestructuras. También soy un estudiante avanzado de Ingeniería industrial, lo que me permite contar con habilidades en gestión de proyectos y procesos, y un enfoque más amplio en la resolución de problemas. He trabajado en proyectos desafiantes que me han permitido fortalecer mis habilidades técnicas , además de ser un aprendiz constante en las últimas tendencias tecnológicas. Estoy comprometido en colaborar en proyectos innovadores y trabajar en equipo para ofrecer soluciones de alta calidad
+Software Developer. 
 
 
 ## 🌐 Socials:
